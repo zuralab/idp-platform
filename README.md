@@ -23,7 +23,7 @@ A full-featured Internal Developer Platform built with **NestJS**, **React**, **
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/idp.git
+git clone [https://github.com/zuralab/idp-platform](https://github.com/zuralab/idp-platform)
 cd idp
 ```
 
