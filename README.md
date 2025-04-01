@@ -24,7 +24,7 @@ A full-featured Internal Developer Platform built with **NestJS**, **React**, **
 
 ```bash
 git clone https://github.com/zuralab/idp-platform
-cd idp
+cd idp-platform
 ```
 
 ### 2. Copy Environment File
